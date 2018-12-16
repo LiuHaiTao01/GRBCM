@@ -1,7 +1,7 @@
 Aggregation GPs for large-scale regression
 ====
 
-This is the implementaion of the scalable GP developed in "*Haitao Liu, Jianfei Cai, Yi Wang, Yew-Soon Ong, Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression, 2018 ICML*". Please see the paper for further details.
+This is the implementation of the scalable GP developed in "*Haitao Liu, Jianfei Cai, Yi Wang, Yew-Soon Ong, Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression, 2018 ICML*". Please see the paper for further details.
 
 We implement state-of-the-art aggregation models including 
 * product-of-experts (PoE),
